@@ -1,5 +1,5 @@
 
-#define SKETCHVER "2022-11-23-01"
+#define SKETCHVER "2022-11-23-02"
 #include <Arduino.h>
 #include <WiFi.h>
 #include <AsyncTCP.h>
